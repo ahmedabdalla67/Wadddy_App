@@ -73,7 +73,7 @@ This was a team graduation project (5+ members). My specific contributions inclu
 
 ```bash
 # Clone the repository
-git clone https://github.com/ahmedabdalla67/waddi.git
+git clone https://github.com/ahmedabdalla67/Wadddy_App.git
 
 # Navigate to project directory
 cd waddi
